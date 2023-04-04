@@ -1,4 +1,6 @@
-# yasa
+# yasa - Wyden and Gyre WASM fork
+
+This is a fork of yasa compiling to WASM. The original README.md text is preserved below.
 
 ## Description
 
