@@ -10,3 +10,5 @@ WORKDIR /yasa
 RUN autoreconf -i && \
     ./configure && \
     make
+
+CMD /bin/bash
